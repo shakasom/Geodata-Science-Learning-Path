@@ -31,4 +31,5 @@ Curriculum for learning Geodata Science (Spatial Data Science)
 2. [Geospatial Data with Open Source Tools in Python](https://github.com/kjordahl/SciPy-Tutorial-2015)
 3. [Combining satellite imagery and machine learning to predict poverty](https://github.com/nealjean/predicting-poverty)
 4. [Big Data Analytics Using Spark](https://www.edx.org/course/machine-learning-fundamentals-uc-san-diegox-dse220x) Edx
+5. [Deep Learning](https://www.coursera.org/specializations/deep-learning) Coursera
 TBC 
