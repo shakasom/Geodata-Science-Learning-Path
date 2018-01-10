@@ -1,4 +1,5 @@
-# Geodata-Science-Learning-Path
+# Geographic Data Science Learning Path
+### Courses, Workshops, Tutorials and Books
 
 curriculum for learning Geodata Science (Spatial Data Science)
 
