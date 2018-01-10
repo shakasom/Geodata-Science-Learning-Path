@@ -1,7 +1,7 @@
 # Geographic Data Science Learning Path
 ### Courses, Workshops, Tutorials and Books
 
-curriculum for learning Geodata Science (Spatial Data Science)
+Curriculum for learning Geodata Science (Spatial Data Science)
 
 ## Begginer:
 1. [Geopython](https://geo-python.github.io/2017/) - University of Helsinki (Complete course open access to all materials) - **Geo**
