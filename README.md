@@ -7,7 +7,7 @@ Curriculum for learning Geodata Science (Spatial Data Science)
 1. [Geopython](https://geo-python.github.io/2017/) - University of Helsinki (Complete course open access to all materials) - **Geo**
 2. [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) - Khan Academy
 3. [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-700-linear-algebra-fall-2013/) - MIT
-4. [Calculas](https://www.khanacademy.org/math/calculus-home?t=classes) Khan Academy
+4. [Calculus](https://www.khanacademy.org/math/calculus-home?t=classes) Khan Academy
 
 ## Intermediary:) - MIT
 1. [Automating GIS-processes](https://automating-gis-processes.github.io/2017/) - University of Helsinki (Complete course open access to all materials) - **Geo**
