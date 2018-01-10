@@ -3,7 +3,7 @@
 curriculum for learning Geodata Science (Spatial Data Science)
 
 ## Begginer:
-1. [Geopython](https://geo-python.github.io/2017/) - University of Helsinki (Complete course open access to all materials)
+1. [Geopython](https://geo-python.github.io/2017/) - University of Helsinki (Complete course open access to all materials) - **Geo
 
 
 ## Intermediary:
