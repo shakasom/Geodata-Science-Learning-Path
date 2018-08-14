@@ -14,10 +14,10 @@ Curriculum for learning Geodata Science (Spatial Data Science)
 
 ## Intermediary:) - MIT
 1. [Automating GIS-processes](https://automating-gis-processes.github.io/2017/) - University of Helsinki (Complete course open access to all materials) - **Geo**
-2. [COMPSCI 109A: Data Science 1: Introduction to Data Science](https://canvas.harvard.edu/courses/29726/pages/videos) - Harvard University - **Not Geo**
+2. [COMPSCI 109A: Data Science 1: Introduction to Data Science](https://canvas.harvard.edu/courses/29726/pages/videos) - Harvard University 
 3. [ENVS363/563 Geographic Data Science](http://darribas.org/gds17/) - University of Liverpool - **Geo**
-4. [CS109: Probability for Computer Scientists](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166//handouts/overview.html) - Stanford University - **Not Geo**
-5. [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) - Udemy - **Not Geo**
+4. [CS109: Probability for Computer Scientists](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166//handouts/overview.html) - Stanford University 
+5. [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) - Udemy 
 6. [Statistics and Probability in Data Science using Python](https://www.edx.org/course/statistics-probability-data-science-uc-san-diegox-dse210x) Edx 
 7. [Machine Learning Fundamentals](https://www.edx.org/course/machine-learning-fundamentals-uc-san-diegox-dse220x)  Edx
 
